@@ -1,2 +1,2 @@
-# dont-know
+# Dont-Know
 Don't Know is a small game project that will have no game idea initially but as the contributions start coming in, it would probably start getting in shape...
